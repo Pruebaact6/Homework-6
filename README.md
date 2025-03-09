@@ -1,4 +1,4 @@
-🚀 Activity 7 - Robotics Course Management System
+🚀 Homework 6 - Robotics Course Management System
 
 📌 Project Name
 
